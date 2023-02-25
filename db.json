@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "asanaalyev1@gmail.com",
+      "password": "$2a$10$eKd64.awzhxI3lFFcZhpN.gZ680dZkkx8qbTbExq94g0t0JHgca7y",
+      "login": "asanaalyev",
+      "tel": "555",
+      "id": 1
+    },
+    {
+      "email": "asanaaly1@gmail.com",
+      "password": "$2a$10$rPm98hGRBn2iXMrBn1x9ceGQJcP2skp9aeYys9H2XK.k8wEQ2ZW.m",
+      "login": "+996556536800",
+      "tel": "555",
+      "id": 2
+    }
+  ]
+}

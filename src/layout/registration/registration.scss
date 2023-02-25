@@ -1,0 +1,35 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.registration {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 80vh;
+	form {
+		padding: 30px;
+		display: flex;
+		flex-direction: column;
+		border-radius: 10px;
+		border: 1px solid black;
+		box-shadow: 2px 2px black;
+
+	}
+	input {
+		border: none;
+		outline: none;
+		background-color: aliceblue;
+		color: black;
+		padding: 5px 0;
+	}
+	button {
+		background-color: blue;
+		color: wheat;
+		border: none;
+		padding: 10px 20px;
+		border-radius: 10px;
+	}
+}
